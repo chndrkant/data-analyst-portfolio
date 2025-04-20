@@ -22,12 +22,25 @@ An end-to-end data analysis project using MySQL on a real-world Superstore datas
 
 ## 📈 Business Questions Answered
 
-1. **Top 10 Most Profitable Products**
-2. **Region with Highest Revenue**
-3. **Top Customer Segment**
-4. **Monthly Revenue Trend**
-5. **Average Shipping Time**
-6. **Shipping Delay Trends**
+1. **[Top 10 Most Profitable Products](https://github.com/chndrkant/superstore-sql-project/blob/main/query_outputs/Question_1_top_10_profitable_products.csv.csv)**  
+   → Identifies the top-selling products that generate the highest profit.
+
+2. **[Region with Highest Revenue](https://github.com/chndrkant/superstore-sql-project/blob/main/query_outputs/Question%202%20Which%20Region%20Generates%20the%20Most%20Revenue.csv)**  
+   → Reveals which geographical region brings in the most revenue.
+
+3. **[Top Customer Segment](https://github.com/chndrkant/superstore-sql-project/blob/main/query_outputs/Question%203%20Which%20Customer%20Segment%20Buys%20the%20Most.csv)**  
+   → Shows which customer group contributes most to sales.
+
+4. **[Monthly Revenue Trend](https://github.com/chndrkant/superstore-sql-project/blob/main/query_outputs/Question%204%20Month-over-Month%20Sales%20Trend.csv)**  
+   → Analyzes sales trends over time by month.
+
+5. **[Average Shipping Time](https://github.com/chndrkant/superstore-sql-project/blob/main/query_outputs/Question%205%20Average%20Shipping%20Time%20(Days).csv)**  
+   → Calculates how long it typically takes for orders to be delivered.
+
+6. **[Shipping Delay Trends](https://github.com/chndrkant/superstore-sql-project/blob/main/query_outputs/Question%206%20Monthly%20Shipping%20Trend.csv)**  
+   → Evaluates changes in shipping time month-over-month.
+
+
 
 ---
 
